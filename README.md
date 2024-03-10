@@ -1,4 +1,4 @@
 # course_repo
-Practising the git
+Practising the git\n
 learning the commit
 
